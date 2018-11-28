@@ -1,5 +1,7 @@
 # SCF Demo
 
+命令行工具使用方法参考项目： <https://github.com/assholev0/v0-scf>
+
 ## License
 
 MIT

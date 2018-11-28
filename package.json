@@ -2,13 +2,15 @@
   "name": "scf-init-demo",
   "version": "1.0.0",
   "description": "scf demo",
+  "scripts": {
+    "scf": "scf"
+  },
   "repository": "git@github.com:assholev0/scf-init-demo.git",
   "author": "willin <willin@willin.org>",
   "license": "MIT",
-  "dependencies": {
-  },
   "devDependencies": {
     "eslint": "^5.9.0",
-    "eslint-config-dwing": "^1.2.1"
+    "eslint-config-dwing": "^1.2.1",
+    "v0-scf": "^0.0.6"
   }
 }
